@@ -1,0 +1,5 @@
+1.跨域是怎么回事？
+2.csrf 与 jwt 区别?
+3.一般项目前端如何向后端传递令牌？
+参考码云：
+https://gitee.com/liuge1988/spring-boot-demo/tree/master/Spring%20Boot%EF%BC%9A%E6%95%B4%E5%90%88Spring%20Security/demo
